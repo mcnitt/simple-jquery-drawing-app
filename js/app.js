@@ -1,5 +1,3 @@
-//Problem: No user interaction causes no change to application
-//Solution: When user interacts cause changes appropriately
 var color = $(".selected").css("background-color");
 var $canvas = $("canvas");
 var context = $canvas[0].getContext("2d");
